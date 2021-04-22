@@ -30,7 +30,7 @@ const Testimonial = () => {
           />
         </div>
         <div className="relative grid place-items-center lg:place-items-start lg:px-32 lg:ml-32 mt-48 lg:mt-24">
-          <button className="absolute top-28 lg:top-48 outline-none bg-black bg-opacity-60 text-white font-bold uppercase py-4 px-10 transition-all rounded-full hover:bg-black bg-opacity-40">
+          <button className="absolute top-32 lg:top-48 outline-none bg-black bg-opacity-60 text-white font-bold uppercase py-4 px-10 transition-all rounded-full hover:bg-black bg-opacity-40">
             Czytaj więcej
           </button>
         </div>
