@@ -29,8 +29,8 @@ const Testimonial = () => {
             className="absolute lg:right-0 lg:top-10 lg:w-6/12 px-4 w-full"
           />
         </div>
-        <div className="relative lg:px-32 text-center lg:text-left mt-48 lg:mt-24">
-          <button className="absolute left-36 top-24 lg:top-48 outline-none bg-black bg-opacity-60 text-white font-bold uppercase py-4 px-10 transition-all rounded-full hover:bg-black bg-opacity-40">
+        <div className="relative lg:px-32 flex justify-center lg:text-left mt-48 lg:mt-24">
+          <button className="absolute left-36 top-28 lg:top-48 outline-none bg-black bg-opacity-60 text-white font-bold uppercase py-4 px-10 transition-all rounded-full hover:bg-black bg-opacity-40">
             Czytaj więcej
           </button>
         </div>
