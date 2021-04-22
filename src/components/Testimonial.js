@@ -8,7 +8,7 @@ const Testimonial = () => {
         Wielka pasja do szachów - idą nowi!
       </h2>
       <section className="relative pb-96">
-        <div className="lg:bg-black lg:bg-opacity-20 py-10 lg:py-20 lg:px-32 lg:w-2/3">
+        <div className="lg:bg-black lg:bg-opacity-20 py-1 lg:py-20 lg:px-32 lg:w-2/3">
           <p className="lg:w-2/3 mb-5 px-5 lg:px-0">
             W Akademii Szachowej Marka Niedźwieckiego dojrzewają do tytułów
             mistrzów i arcymistrzów w szachach nowe pokolenia dzieci, młodzieży
@@ -18,7 +18,7 @@ const Testimonial = () => {
           <h3 className="text-xl lg:text-2xl text-center lg:text-left">
             Następcy Carlsena
           </h3>
-          <p className="uppercase mt-2 text-center lg:text-left">
+          <p className="uppercase mt-2 mb-3 text-center lg:text-left">
             Narybek z "kuźni talentów" Marka Niedźwiedzkiego
           </p>
         </div>
