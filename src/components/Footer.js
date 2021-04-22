@@ -17,7 +17,7 @@ const Footer = () => {
           <img
             src={footerIcon}
             alt="chess"
-            className="max-h-full -mt-10 lg:mt-0 lg:w-20"
+            className="max-w-full -mt-10 lg:mt-0 lg:w-20"
           />
         </Link>
         {footerLinks.map((fl) => {
