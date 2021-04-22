@@ -84,7 +84,7 @@ const Testimonial = () => {
             </p>
             <br />
             <div className="flex justify-center">
-              <img src={marekImg} alt="..." />
+              <img src={marekImg} alt="..." className="h-auto" />
             </div>
             <br />
             <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
