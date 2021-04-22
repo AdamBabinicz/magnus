@@ -12,7 +12,7 @@ const Listings = () => {
   return (
     <>
       <div className="flex items-center justify-between pt-4 px-4 lg:px-32 mb-5">
-        <h2 className="text-color font-bold text-2xl">
+        <h2 className="text-color font-bold text-2xl lg:text-3xl">
           Zobacz listę najbliższych turniejów:
         </h2>
         <Link
