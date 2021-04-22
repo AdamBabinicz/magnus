@@ -12,7 +12,7 @@ const Footer = () => {
         <Link
           to=""
           // smooth={true}
-          className="relative flex justify-center lg:items-start"
+          className="relative max-h-1 flex justify-center lg:items-start"
         >
           <img
             src={footerIcon}
