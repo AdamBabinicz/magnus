@@ -13,15 +13,19 @@ const Footer = () => {
         <Link
           to=""
           // smooth={true}
-          className="w-30 lg:w-20 relative mt-10 lg:mt-0"
+          className="relative flex justify-center lg:block"
         >
-          <img src={footerIcon} alt="chess" />
+          <img
+            src={footerIcon}
+            alt="chess"
+            className="w-44 -mt-10 lg:mt-0 lg:w-20"
+          />
         </Link>
         {footerLinks.map((fl) => {
           const { id, title, links, to } = fl;
 
           return (
-            <div key={id} className="mt-5 lg:mt-0 text-center lg:text-left">
+            <div key={id} className="mt-5 lg:-mt-2 text-center lg:text-left">
               <h4>{title}</h4>
               <ul>
                 {links.map((link) => {
@@ -42,7 +46,7 @@ const Footer = () => {
           );
         })}
       </footer>
-      <p className="text-center -mt-16 mb-10 font-bold">
+      <p className="text-center -mt-16 mb-10 font-bold text-black text-opacity-60">
         Radom 2021 - {new Date().getFullYear()}.
       </p>
     </>
