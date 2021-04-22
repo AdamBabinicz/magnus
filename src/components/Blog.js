@@ -8,8 +8,8 @@ const Blog = () => {
 
   return (
     <>
-      <div className="px-4 lg:px-32 pt-32 lg:pb-10 flex items-center justify-between">
-        <h2 className="text-3xl">Wyniki turniejów</h2>
+      <div className="px-4 lg:px-32 pt-4 lg:pb-10 flex items-center justify-between">
+        <h2 className="text-2xl lg:text-3xl">Wyniki turniejów</h2>
         <Link target="_blank" rel="noopener noreferrer" to="//ratings.fide.com">
           Klasyfikacja
         </Link>
