@@ -15,8 +15,8 @@ const About = () => {
       <h2 className="px-32 pt-4 pb-10 text-2xl text-center lg:text-left lg:text-3xl">
         Życiorys
       </h2>
-      <section className="px-4 lg:px-32 grid lg:grid-cols-2 gap-10 pb-10">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <section className="px-4 lg:px-32 grid grid-cols-1 lg:grid-cols-2 gap-10 pb-10">
+        <div className="grid lg:grid-cols-2 gap-6">
           <div>
             <img src={img1} alt="..." className="w-full" />
           </div>
