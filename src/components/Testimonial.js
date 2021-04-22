@@ -4,7 +4,7 @@ import testImg from "../images/22.jpg";
 const Testimonial = () => {
   return (
     <>
-      <h2 className="lg:px-32 text-center lg:text-left pt-32 pb-10 text-2xl lg:text-3xl">
+      <h2 className="lg:px-32 text-center lg:text-left pt-4 pb-10 text-2xl lg:text-3xl">
         Wielka pasja do szachów - idą nowi!
       </h2>
       <section className="relative pb-96">
