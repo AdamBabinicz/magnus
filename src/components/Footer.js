@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import data from "../data/footer";
 import footerIcon from "../images/chess.png";
 import { Link } from "react-router-dom";
-// import { scroller } from "react-scroll";
 
 const Footer = () => {
   // eslint-disable-next-line
@@ -18,7 +17,7 @@ const Footer = () => {
           <img
             src={footerIcon}
             alt="chess"
-            className="w-44 h-auto -mt-10 lg:mt-0 lg:w-20"
+            className="max-w-xs -mt-10 lg:mt-0 lg:w-20"
           />
         </Link>
         {footerLinks.map((fl) => {
