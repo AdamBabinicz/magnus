@@ -55,7 +55,7 @@ const Testimonial = () => {
               },
               content: {
                 position: "absolute",
-                top: "20px",
+                top: "40px",
                 left: "40px",
                 right: "40px",
                 bottom: "40px",
@@ -126,7 +126,7 @@ const Testimonial = () => {
             </p>
             <div>
               <button onClick={() => setModalIsOpen(false)}>
-                <MdClose className="absolute right-3 top-6 text-2xl" />
+                <MdClose className="absolute right-3 top-3 text-2xl" />
               </button>
             </div>
           </Modal>
