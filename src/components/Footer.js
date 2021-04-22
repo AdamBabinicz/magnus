@@ -18,7 +18,7 @@ const Footer = () => {
           <img
             src={footerIcon}
             alt="chess"
-            className="w-44 -mt-10 lg:mt-0 lg:w-20"
+            className="w-44 h-auto -mt-10 lg:mt-0 lg:w-20"
           />
         </Link>
         {footerLinks.map((fl) => {
