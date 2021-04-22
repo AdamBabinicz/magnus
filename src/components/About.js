@@ -12,7 +12,7 @@ import img8 from "../images/6.jpg";
 const About = () => {
   return (
     <>
-      <h2 className="px-32 pt-32 pb-10 text-2xl text-center lg:text-left lg:text-3xl">
+      <h2 className="px-32 pt-4 pb-10 text-2xl text-center lg:text-left lg:text-3xl">
         Życiorys
       </h2>
       <section className="px-4 lg:px-32 grid lg:grid-cols-2 gap-10 pb-10">
