@@ -7,7 +7,7 @@ const Testimonial = () => {
       <h2 className="lg:px-32 px-6 text-center lg:text-left pt-4 pb-10 text-2xl lg:text-3xl">
         Wielka pasja do szachów - idą nowi!
       </h2>
-      <section className="relative pb-72 lg:pb-96 bg-purple-200">
+      <section className="relative pb-64 lg:pb-96 bg-purple-200">
         <div className="lg:bg-black lg:bg-opacity-20 py-1 lg:py-20 lg:px-32 lg:w-2/3">
           <p className="lg:w-2/3 mb-5 px-5 lg:px-0">
             W Akademii Szachowej Marka Niedźwieckiego dojrzewają do tytułów
