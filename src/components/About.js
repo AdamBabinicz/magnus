@@ -16,7 +16,7 @@ const About = () => {
         Życiorys
       </h2>
       <section className="px-4 lg:px-32 grid lg:grid-cols-2 gap-10 pb-10">
-        <div className="grid lg:grid-cols-2 gap-10 lg:gap-5">
+        <div className="grid gap-y-5 lg:grid-cols-2 gap-5">
           <div>
             <img src={img1} alt="..." className="w-full" />
           </div>
