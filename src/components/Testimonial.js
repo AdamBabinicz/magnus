@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import testImg from "../images/22.jpg";
 import Modal from "react-modal";
 import { MdClose } from "react-icons/md";
-import marekImg from "../images/marek.jpg";
 
 const Testimonial = () => {
   const [modalIsOpen, setModalIsOpen] = useState(false);
@@ -82,10 +81,6 @@ const Testimonial = () => {
               posunięciach”. To także wieloletni prezes Uczniowskiego Klubu
               Sportowego „Roszada”.
             </p>
-            <br />
-            <div className="relative flex justify-center">
-              <img src={marekImg} alt="..." className="h-1/4" />
-            </div>
             <br />
             <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
               Pierwsze szachowe kroki stawiał pod okiem swojego taty, gdy miał
