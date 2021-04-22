@@ -83,8 +83,8 @@ const Testimonial = () => {
               Sportowego „Roszada”.
             </p>
             <br />
-            <div className="relative flex justify-center h-auto">
-              <img src={marekImg} alt="..." className="w-full" />
+            <div className="relative flex justify-center">
+              <img src={marekImg} alt="..." className="" />
             </div>
             <br />
             <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
