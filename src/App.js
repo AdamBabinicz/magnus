@@ -1,25 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import NavBar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Listing from "./components/Listings";
+import About from "./components/About";
+import Blog from "./components/Blog";
+import Testimonial from "./components/Testimonial";
+import Mobile from "./components/Mobile";
+import Footer from "./components/Footer";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import ScrollToTop from "./components/ScrollToTop";
+// import * as Scroll from "react-scroll";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <NavBar />
+        <ScrollToTop />
+        <Switch>
+          <Route exact path="/" component={Hero} />
+          {/* <Hero /> */}
+          <Route exact path="/turnieje" component={Listing} />
+          {/* <Listing /> */}
+          <Route exact path="/zyciorys" component={About} />
+          {/* <About /> */}
+          <Route exact path="/narybek" component={Testimonial} />
+          {/* <Testimonial /> */}
+          <Route exact path="/klasyfikacja" component={Blog} />
+        </Switch>
+        <Mobile />
+        <Footer />
+      </Router>
+    </>
   );
-}
+};
 
 export default App;
