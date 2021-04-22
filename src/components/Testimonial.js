@@ -12,7 +12,7 @@ const Testimonial = () => {
       </h2>
       <section className="relative pb-64 lg:pb-96">
         <div className="lg:bg-black lg:bg-opacity-20 py-1 lg:py-20 lg:px-32 lg:w-2/3">
-          <p className="lg:w-2/3 mb-5 px-5 lg:px-0">
+          <p className="lg:w-2/3 mb-5 px-5 lg:px-0 text-justify">
             W Akademii Szachowej Marka Niedźwieckiego dojrzewają do tytułów
             mistrzów i arcymistrzów w szachach nowe pokolenia dzieci, młodzieży
             i dorosłych, którzy marzą o karierze na miarę Carlsena, Kasparowa
