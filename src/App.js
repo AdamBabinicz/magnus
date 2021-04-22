@@ -8,7 +8,6 @@ import Mobile from "./components/Mobile";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
-// import * as Scroll from "react-scroll";
 
 const App = () => {
   return (
