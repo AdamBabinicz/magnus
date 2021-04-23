@@ -71,7 +71,7 @@ const Testimonial = () => {
             <h2 className="text-center font-bold lg:text-2xl sm:text-xl mt-4 mb-6">
               Akademia Szachowa Marka Niedźwieckiego
             </h2>
-            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
+            <p className="lg:px-10 sm:px-2 lg:text-left">
               Marek Niedźwiecki jest sędzią szachowym klasy centralnej
               i&nbsp;instruktorem szachowym. Zorganizował liczne turnieje
               szachowe. Koordynuje program powszechnej nauki gry w&nbsp;szachy
@@ -82,7 +82,7 @@ const Testimonial = () => {
               Uczniowskiego Klubu Sportowego „Roszada”.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
+            <p className="lg:px-10 sm:px-2 lg:text-left">
               Pierwsze szachowe kroki stawiał pod okiem swojego taty, gdy miał
               niespełna 9 lat. Jako kilkunastoletni chłopak zastanawiał się,
               dlaczego gry w&nbsp;szachy nie uczą w&nbsp;szkole, przecież to
@@ -95,7 +95,7 @@ const Testimonial = () => {
               poznają tajniki tej gry.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
+            <p className="lg:px-10 sm:px-2 lg:text-left">
               Aby zachęcić mieszkańców Radomia do gry w&nbsp;szachy, przez kilka
               lat organizował warsztaty, które miały przygotować nauczycieli do
               prowadzenia zajęć szachowych w&nbsp;szkole. Z&nbsp;warsztatami
@@ -105,7 +105,7 @@ const Testimonial = () => {
               Gry w&nbsp;Szachy.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
+            <p className="lg:px-10 sm:px-2 lg:text-left">
               Nie sposób wyliczyć wszystkie turnieje szachowe organizowane przez
               Marka Niedźwieckiego, czy takie, których był współorganizatorem.
               Ale daje się zauważyć przede wszystkim to, że&nbsp;najczęściej są
