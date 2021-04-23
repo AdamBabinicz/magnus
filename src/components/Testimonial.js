@@ -71,52 +71,55 @@ const Testimonial = () => {
             <h2 className="text-center font-bold lg:text-2xl sm:text-xl mt-4 mb-6">
               Akademia Szachowa Marka Niedźwieckiego
             </h2>
-            <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
-              Marek Niedźwiecki jest sędzią szachowym klasy centralnej i
-              instruktorem szachowym. Zorganizował liczne turnieje szachowe.
-              Koordynuje program powszechnej nauki gry w szachy oraz „Akademię
-              szachową Marka Niedźwieckiego”. Jest autorem podręczników
-              szachowych „Twój pierwszy ruch”, „Poznaj smak szachów. Mat w
-              jednym posunięciu” oraz „Poznaj smak szachów - mat w dwóch
-              posunięciach”. To także wieloletni prezes Uczniowskiego Klubu
-              Sportowego „Roszada”.
+            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
+              Marek Niedźwiecki jest sędzią szachowym klasy centralnej
+              i&nbsp;instruktorem szachowym. Zorganizował liczne turnieje
+              szachowe. Koordynuje program powszechnej nauki gry w&nbsp;szachy
+              oraz „Akademię szachową Marka Niedźwieckiego”. Jest autorem
+              podręczników szachowych „Twój pierwszy ruch”, „Poznaj smak
+              szachów. Mat w&nbsp;jednym posunięciu” oraz „Poznaj smak szachów -
+              mat w&nbsp;dwóch posunięciach”. To także wieloletni prezes
+              Uczniowskiego Klubu Sportowego „Roszada”.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
+            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
               Pierwsze szachowe kroki stawiał pod okiem swojego taty, gdy miał
               niespełna 9 lat. Jako kilkunastoletni chłopak zastanawiał się,
-              dlaczego gry w szachy nie uczą w szkole, przecież to także
-              dyscyplina sportowa. Wtedy też postanowił, że kiedyś dołoży
-              wszelkich starań, aby propagować tę grę w szkołach. Pan Marek
-              pochodzi z Ciechanowa, a do Radomia przeprowadził się ponad 35 lat
-              temu. I tak jak postanowił - wchodził z szachami do szkół. Jak
-              podkreśla, jest wielu młodych ludzi, w każdym środowisku, którzy
-              chętnie poznają tajniki tej gry.
+              dlaczego gry w&nbsp;szachy nie uczą w&nbsp;szkole, przecież to
+              także dyscyplina sportowa. Wtedy też postanowił, że&nbsp;kiedyś
+              dołoży wszelkich starań, aby propagować tę grę w&nbsp;szkołach.
+              Pan Marek pochodzi z&nbsp;Ciechanowa, a&nbsp;do Radomia
+              przeprowadził się ponad trzy dekady temu. I&nbsp;tak jak
+              postanowił - wchodził z&nbsp;szachami do szkół. Jak podkreśla,
+              jest wielu młodych ludzi, w&nbsp;każdym środowisku, którzy chętnie
+              poznają tajniki tej gry.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
-              Aby zachęcić mieszkańców Radomia do gry w szachy, przez kilka lat
-              organizował warsztaty, które miały przygotować nauczycieli do
-              prowadzenia zajęć szachowych w szkole. Z warsztatami wyjeżdżał też
-              poza Radom - na przykład do Starachowic. Z czasem powstał tam
-              bardzo aktywnie działający klub, który między innymi organizuje
-              Ogólnopolskie Mistrzostwa Ministrantów Gry w Szachy.
+            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
+              Aby zachęcić mieszkańców Radomia do gry w&nbsp;szachy, przez kilka
+              lat organizował warsztaty, które miały przygotować nauczycieli do
+              prowadzenia zajęć szachowych w&nbsp;szkole. Z&nbsp;warsztatami
+              wyjeżdżał też poza Radom - na przykład do Starachowic.
+              Z&nbsp;czasem powstał tam bardzo aktywnie działający klub, który
+              między innymi organizuje Ogólnopolskie Mistrzostwa Ministrantów
+              Gry w&nbsp;Szachy.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify">
+            <p className="lg:px-10 sm:px-2 lg:text-left text-justify">
               Nie sposób wyliczyć wszystkie turnieje szachowe organizowane przez
               Marka Niedźwieckiego, czy takie, których był współorganizatorem.
-              Ale daje się zauważyć przede wszystkim to, że najczęściej są to
-              turnieje tematycznie, związane z historycznymi wydarzeniami czy
-              postaciami, które zapisały się złotymi zgłoskami na kartach
-              dziejów Polski. Były zatem np. z okazji rocznicy wyboru Karola
-              Wojtyły na papieża, Mistrzostwa Radomia Szkół Ponadgimnazjalnych w
-              Szachach im. rtm. Witolda Pileckiego czy z okazji Święta
-              Odzyskania Niepodległości. Śmiało można powiedzieć, że działania
-              M. Niedźwieckiego, to również promocja Radomia na terenie Polski.
+              Ale daje się zauważyć przede wszystkim to, że&nbsp;najczęściej są
+              to turnieje tematycznie, związane z&nbsp;historycznymi
+              wydarzeniami czy postaciami, które zapisały się złotymi zgłoskami
+              na kartach dziejów Polski. Były zatem np. z&nbsp;okazji rocznicy
+              wyboru Karola Wojtyły na papieża, Mistrzostwa Radomia Szkół
+              Ponadgimnazjalnych w&nbsp;Szachach im. rtm. Witolda Pileckiego czy
+              z&nbsp;okazji Święta Odzyskania Niepodległości. Śmiało można
+              powiedzieć, że&nbsp;działania M. Niedźwieckiego, to również
+              promocja Radomia na terenie Polski.
             </p>
             <br />
-            <p className="lg:px-10 sm:px-2 lg:text-left sm:text-justify italic">
+            <p className="lg:px-10 sm:px-2 lg:text-left italic">
               https://radom.gosc.pl/doc/4408111.Z-szachami-w-2018-rok
             </p>
             <div>
